@@ -25,14 +25,11 @@ Each repository in this organization provides a ready‑to‑run dummy backend f
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [dummy-rest](https://github.com/Dummy-Backends/dummy-rest) | RESTful API mock with configurable routes and responses | Node.js / Express |
-| [dummy-graphql](https://github.com/Dummy-Backends/dummy-graphql) | GraphQL server with dynamic schema and resolvers | Apollo Server / TypeScript |
-| [dummy-websocket](https://github.com/Dummy-Backends/dummy-websocket) | WebSocket echo server and event simulator | Node.js / ws |
-| [dummy-grpc](https://github.com/Dummy-Backends/dummy-grpc) | gRPC mock server with predefined proto services | gRPC / Python |
-| [dummy-auth](https://github.com/Dummy-Backends/dummy-auth) | OAuth2 / JWT authentication mock | Go / Gin |
-| [dummy-database](https://github.com/Dummy-Backends/dummy-database) | In‑memory database with RESTful CRUD operations | Python / Flask |
-
-> 👉 **More backends are under active development** – check back often or [request a new one](https://github.com/Dummy-Backends/.github/issues).
+| [ExpressJS Backend](https://github.com/Dummy-Backends/expressjs-backend) | Node.js / Express |
+| [Laravel Backend](https://github.com/Dummy-Backends/laravel-backend) | PHP / Laravel |
+| [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend) | Java / Spring Boot |
+| [SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java / Spring Boot |
+| [Flask Backend](https://github.com/Dummy-Backends/flask-api-books) | Flask / Python |
 
 ---
 
