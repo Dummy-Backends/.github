@@ -23,8 +23,8 @@ Each repository in this organization provides a ready‑to‑run dummy backend f
 
 ## 📦 Available Dummy Backends
 
-| Repository | Description | Tech Stack |
-|------------|-------------|------------|
+| Repository | Tech Stack |
+|------------|-------------|
 | [ExpressJS Backend](https://github.com/Dummy-Backends/expressjs-backend) | Node.js / Express |
 | [Laravel Backend](https://github.com/Dummy-Backends/laravel-backend) | PHP / Laravel |
 | [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend) | Java / Spring Boot |
