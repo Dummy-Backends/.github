@@ -17,7 +17,7 @@
 - **Speed up development** by decoupling frontend and backend work.
 - **Run integration tests** in CI/CD pipelines without external dependencies.
 
-Each repository in this organization provides a ready‑to‑run dummy backend for a specific protocol or use case – REST, GraphQL, WebSocket, gRPC, and more.
+Each repository in this organization provides a ready‑to‑run dummy backend for a specific protocol or use case.
 
 ---
 
@@ -27,8 +27,8 @@ Each repository in this organization provides a ready‑to‑run dummy backend f
 |------------|-------------|
 | [ExpressJS Backend](https://github.com/Dummy-Backends/expressjs-backend) | Node.js / Express |
 | [Laravel Backend](https://github.com/Dummy-Backends/laravel-backend) | PHP / Laravel |
-| [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend) | Java / Spring Boot |
-| [SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java / Spring Boot |
+| - [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend)
+  - [SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java / Spring Boot |
 | [Flask Backend](https://github.com/Dummy-Backends/flask-api-books) | Flask / Python |
 
 ---
