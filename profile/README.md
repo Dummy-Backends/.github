@@ -24,11 +24,10 @@ Each repository in this organization provides a ready‑to‑run dummy backend f
 ## 📦 Available Dummy Backends
 
 | Repository | Tech Stack |
-|------------|-------------|
+|------------|------------|
 | [ExpressJS Backend](https://github.com/Dummy-Backends/expressjs-backend) | Node.js / Express |
 | [Laravel Backend](https://github.com/Dummy-Backends/laravel-backend) | PHP / Laravel |
-| - [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend)
-  - [SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java / Spring Boot |
+| [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend)<br>[SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java / Spring Boot |
 | [Flask Backend](https://github.com/Dummy-Backends/flask-api-books) | Flask / Python |
 
 ---
