@@ -23,14 +23,14 @@ Each repository in this organization provides a ready‑to‑run dummy backend f
 
 ## 📦 Available Dummy Backends
 
-| Repository | Tech Stack |
-|------------|------------|
-| [ExpressJS Backend 1](https://github.com/Dummy-Backends/expressjs-backend)<br>[ExpressJS Backend 2](https://github.com/Dummy-Backends/expressjs-backend-2) | Node.js / Express |
-| [Laravel Backend](https://github.com/Dummy-Backends/laravel-backend) | PHP / Laravel |
-| [Symfony Backend](https://github.com/Dummy-Backends/symfony-backend) | PHP / Symfony |
-| [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend)<br>[SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java / Spring Boot |
-| [Flask Backend](https://github.com/Dummy-Backends/flask-api-books) | Flask / Python |
-| [FastAPI Backend](https://github.com/Dummy-Backends/fastapi-agent-api) | FastAPI / Python |
+| Repository | Language | Framework |
+|------------|------------|------------|
+| [ExpressJS Backend 1](https://github.com/Dummy-Backends/expressjs-backend)<br>[ExpressJS Backend 2](https://github.com/Dummy-Backends/expressjs-backend-2) | Node.js | ExpressJS |
+| [Laravel Backend](https://github.com/Dummy-Backends/laravel-backend) | PHP | Laravel |
+| [Symfony Backend](https://github.com/Dummy-Backends/symfony-backend) | PHP | Symfony |
+| [SpringBoot Backend 1](https://github.com/Dummy-Backends/spring-boot-backend)<br>[SpringBoot Backend 2](https://github.com/Dummy-Backends/spring-boot-blog-api) | Java | Spring Boot |
+| [Flask Backend](https://github.com/Dummy-Backends/flask-api-books) | Python | Flask |
+| [FastAPI Backend](https://github.com/Dummy-Backends/fastapi-agent-api) | Python | FastAPI |
 
 ---
 
